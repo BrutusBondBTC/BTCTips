@@ -33,6 +33,9 @@
 ## 4. Send your Ligntning Address to the email printed on my card and I will send you a bitcoin tip.
 
 TODO: Add Video
+TODO: Explain risks of custodial wallets
+TODO: Explain How To Backup Wallet of Satoshi
 
+TODO: Explain How To Transfer To Muun Wallet
 
 
