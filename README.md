@@ -48,6 +48,12 @@
 # Use [The Strike App](https://strike.me) To Avoid Credit Card Fees.
 
 
+#### Resources:
+- [Bitcoin Explained Like I'm 5](https://www.freecodecamp.org/news/explain-bitcoin-like-im-five-73b4257ac833)
+
+
+
+
 TODO: Add Video
 TODO: Explain risks of custodial wallets
 TODO: Explain How To Backup Wallet of Satoshi
