@@ -27,6 +27,7 @@
 
 ![Recieve](https://brutusbond.nohost.me/piwigo/i.php?/upload/2022/06/08/20220608222124-c430b542-la.jpg)
 
+
 ------------
 
 
@@ -40,7 +41,7 @@
 
 # Want to market to Bitcoiners?
 
-- [check out OshiApp](https://www.oshi.team/qRdUu7fioiPKl1cg21XWVOoRl3C3)
+- [check out OshiApp](https://www.oshi.tech/)
 
 
 TODO: Add Video
