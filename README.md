@@ -43,6 +43,10 @@
 
 - [check out OshiApp](https://www.oshi.tech/)
 
+## Not Interested In Holdong Bitcoin?
+
+# Use [The Strike App](https://strike.me) To Avoid Credit Card Fees.
+
 
 TODO: Add Video
 TODO: Explain risks of custodial wallets
