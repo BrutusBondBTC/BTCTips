@@ -40,7 +40,9 @@
 
 # Want to market to Bitcoiners?
 
-- [check out OshiApp](qRdUu7fioiPKl1cg21XWVOoRl3C3)
+- [check out OshiApp](https://www.oshi.team/qRdUu7fioiPKl1cg21XWVOoRl3C3)
+
+
 TODO: Add Video
 TODO: Explain risks of custodial wallets
 TODO: Explain How To Backup Wallet of Satoshi
