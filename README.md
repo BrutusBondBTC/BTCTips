@@ -32,6 +32,15 @@
 
 ## 4. Send your Ligntning Address to the email printed on my card and I will send you a bitcoin tip.
 
+
+# Interested in accepting bitcoin at your own business?
+
+- [Check out Bitcoin For Local Businesses](https://bitcoinforlocalbusiness.com/)
+
+
+# Want to market to Bitcoiners?
+
+- [check out OshiApp](qRdUu7fioiPKl1cg21XWVOoRl3C3)
 TODO: Add Video
 TODO: Explain risks of custodial wallets
 TODO: Explain How To Backup Wallet of Satoshi
